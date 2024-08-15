@@ -64,8 +64,6 @@ __all__ = [
 ]
 
 
-warnings._deprecated(__name__, remove=(3, 13))
-
 # Logging support
 # ===============
 
