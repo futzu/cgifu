@@ -6,7 +6,7 @@
 
 Python 3.13 is removing the  cgi module. I'm bringing it back and making it a pockage.
 
-I'm leaving at is, but renaming the cgi module cgifu for two reasons:
+I'm leaving it as is, but renaming the cgi module cgifu for two reasons:
 
 1. Avoid Namespace Collisions
 2. pypi probably won't let me make a cgi pip package
