@@ -4,7 +4,7 @@
 
 
 
-Python 3.13 is removing the  cgi module. I'm bringing it back and making it a pockage.
+Python 3.13 is removing the  cgi module. I'm bringing it back and making it a package.
 
 I'm leaving it as is, but renaming the cgi module cgifu for two reasons:
 
